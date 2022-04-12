@@ -1,0 +1,360 @@
+.cardLateral {
+	margin-left: 75px;
+	position: absolute;
+	margin-top: 0px;
+	margin-top: -233px;
+}
+
+.cardLateral .card {
+	width: 230px;
+	height: auto;
+	margin-top: 10px;
+	margin-left: 5px;
+	border-radius: 20px;
+}
+
+.cardLateral .btn, .cardLateral .card-header, .cardLateral select {
+	border-radius: 20px;
+}
+
+.cardLateral .card li span {
+	margin-left: -12px;
+	font-size: 16px;
+}
+
+.cardLateral .card ul li select {
+	position: absolute;
+	width: auto;
+	right: 0px;
+	margin-right: 10px;
+	font-size: 14px;
+}
+
+.cardLateral .card ul .btn-salvar {
+	position: relative;
+	width: 200px;
+	margin-left: 17px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.cardLateral #andamentoObra {
+	height: 180px;
+}
+
+.cardLateral #andamentoObra svg {
+	width: 225px;
+	height: 180px;
+	position: relative;
+	margin-left: -18px;
+	margin-top: -18px;
+	border-radius: 100%;
+}
+/* 
+.cardLateral #andamentoObra svg g rect{
+	color: #f8f9fa;
+	background: #f8f9fa;
+	fill: #f8f9fa;
+}
+*/
+.ocultos h5 {
+	padding-left: 5px;
+	padding-top: 5px;
+}
+
+.ocultos .botoes {
+	margin-top: 5px;
+	margin-bottom: -5px;
+}
+
+.ocultos .botoes button {
+	position: relative;
+	width: 200px;
+	margin-left: 17px;
+	margin-bottom: 10px;
+}
+
+.frameCentral .card {
+	width: auto;
+	border-radius: 20px;
+}
+
+.frameCentral .btn, .frameCentral .card-header, .frameCentral select {
+	border-radius: 20px;
+}
+
+.frameCentral {
+	position: absolute;
+	width: 75%;
+	margin-left: 312px;
+	margin-top: -20px;
+	margin-bottom: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-top: 0px;
+	height: 100%;
+}
+
+.frameCentral .btnControlles {
+	position: absolute;
+	margin-left: 630px;
+	margin-top: -42px;
+	margin-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+.frameCentral .btnControlles button {
+	margin-left: 5px;
+}
+
+.frameCentral .observacoes {
+	margin-left: -800px;
+	margin-top: 62px;
+	position: relative;
+	padding-bottom: 5px;
+}
+
+.frameCentral .observacoes .observacoesTxt {
+	width: 500px;
+	height: 250px;
+}
+
+.frameCentral form {
+	margin-top: 10px;
+}
+
+.frameCentral form table tbody td * {
+	font-size: 12px;
+}
+
+.frameCentral form table tbody td {
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.frameCentral form table tbody .cx-check {
+	width: 50px;
+}
+
+.frameCentral form table tbody td .solicitacao_statusCheck {
+	width: 20px;
+}
+
+.frameCentral form table tbody td .btn {
+	width: 40px;
+}
+
+.frameCentral form table tbody .obs {
+	width: 40px;
+}
+
+.frameCentral #chartContainer {
+	position: relative;
+	height: 320px;
+}
+
+.frameCentral #chartContainer div .canvasjs-chart-canvas {
+	padding: 5px;
+	border-radius: 20px;
+}
+
+.frameCentral .card-header {
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+}
+
+.frameCentral .graficoControle {
+	position: absolute;
+	width: 230px;
+	height: 300px;
+	margin-top: 30px;
+	margin-left: -240px;
+	border-radius: 20px;
+}
+
+.frameCentral .graficoControle .canvasjs-chart-canvas {
+	width: 100%;
+	border-radius: 20%;
+	padding: 5px;
+}
+
+.chartContainer {
+	position: absolute;
+	height: 298px;
+	width: 932px;
+}
+
+.btnSalvar {
+	margin-left: 660px;
+	margin-bottom: 20px;
+	width: 240px;
+}
+
+.cardLateral .ocultos {
+	position: absolute;
+	width: 240px;
+	height: auto;
+}
+
+#menuSuspenso {
+	margin-top: -300px;
+	position: fixed;
+	white-space: nowrap;
+	background: #f8f9fa;
+	z-index: 90;
+	transition: all 0.5s ease;
+	opacity: 0.9;
+	width: 100%;
+	margin-left: -87px;
+	height: 50px;
+	color: black;
+}
+
+#menuSuspenso ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 4px;
+	position: absolute;
+}
+
+#menuSuspenso li {
+	display: inline-block;
+	margin-left: 94px;
+	margin-top: 10px;
+}
+
+#menuSuspenso li a {
+	margin-left: -84px;
+	margin-top: -10px;
+	text-decoration: none;
+	line-height: 50px;
+	color:black;
+}
+
+#menuSuspenso li ul {
+	margin-left: -90px;
+	display: none;
+	white-space: nowrap;
+	background: #f8f9fa;
+	z-index: 90;
+	margin-top: 0px;
+	width: 270px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-top-left-radius: -20px;
+	border-top-right-radius: -20px;
+}
+
+#menuSuspenso li ul li {
+	margin-left: 10px;
+	margin-top: 0px;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-gap: 8px;
+	padding-bottom: 15px;
+}
+
+#menuSuspenso li ul .listaControles {
+	margin-left: 100px;
+	margin-top: 0px;
+	padding-bottom: 0px;
+}
+
+#menuSuspenso .shadow-lg {
+	box-shadow: 0 1rem 1rem rgba(0, 0, 0, .6) !important;
+}
+
+#menuSuspenso li ul li select {
+	width: 100px;
+	margin-left: -20px;
+}
+
+#menuSuspenso li ul li select option {
+	white-space: nowrap;
+	background: #f8f9fa;
+	z-index: 90;
+}
+
+#menuSuspenso li:hover ul {
+	display: block;
+}
+
+#menuSuspenso li a, #menuSuspenso li select {
+	display: block;
+	min-width: 140px;
+	text-align: left;
+	color: black;
+	z-index: 999;
+}
+
+#menuSuspenso li select {
+	margin-top: -5px;
+}
+
+.cardBox {
+	font-weight: 600;
+	position: relative;
+	width: 100%;
+	padding: 20px;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 8px;
+	width: auto;
+	margin-left: 300px;
+	margin-top: 50px;
+}
+
+.cardBox .cards {
+	position: relative;
+	background: white;
+	padding: 15px;
+	border-radius: 20px;
+	display: flex;
+	justify-content: space-between;
+	box-shadow: 0 7px 25px rgba(0, 0, 0, 0.08);
+}
+
+.cardBox .cards .data {
+	position: relative;
+	font-weight: 500;
+	font-size: 24px;
+	color: blue;
+}
+
+.cardBox .cards .cardName {
+	color: rgba(199, 199, 199, 0.83);
+	font-size: 14px;
+	margin-top: 10px;
+	white-space: nowrap;
+}
+
+.cardBox .cards .iconBx {
+	font-size: 40px;
+	color: black;
+	margin-left: 5px;
+}
+
+.cardBox .cards:hover {
+	background: rgb(128, 128, 128);
+	color: white;
+}
+
+.cardBox .cards:hover .data, .cardBox .cards:hover .cardName, .cardBox .cards:hover .iconBx {
+	color: white;
+}
+
+.cardBox .vencidas .iconBx {
+	color: red;
+}
+
+.cardBox .pendentes .iconBx {
+	color: yellow;
+}
+
+.cardBox .completas .iconBx {
+	color: green;
+}

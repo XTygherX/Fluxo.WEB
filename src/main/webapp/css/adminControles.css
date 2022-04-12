@@ -1,0 +1,117 @@
+body {
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+.tabela {
+	height: auto;
+	width: 1035px;
+	position: absolute;
+	margin-left: 285px;
+	margin-top: 0px;
+}
+
+.tabela form {
+	width: 100%;
+	margin-left: 0px;
+	border-radius: 20px;
+}
+
+.tabela span, .tabela .rowDescAtual {
+	width: 425px;
+}
+
+.tabela .rowDescNova {
+	width: 450px;
+	margin-left: -10px;
+}
+
+.tabela .dMenos {
+	width: 65px;
+	right: 0px;
+}
+
+.tabela .rowdMenos {
+	width: 40px;
+	right: 0px;
+}
+
+.tabela .rowDel {
+	width: 40px;
+	right: 0px;
+}
+
+.tabela button {
+	margin-left: 75%;
+	margin-bottom: 10px;
+	position: relative;
+}
+
+.tabela form table tbody td * {
+	font-size: 14px;
+}
+
+.tabela form table tbody td a i {
+	font-size: 22px;
+	margin-top: 5px;
+}
+
+.tabela form table tbody td {
+	padding: 4px;
+}
+
+#Controles {
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	position: fixed;
+	height: auto;
+	width: 200px;
+	margin-left: 75px;
+}
+
+#Controles button {
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	font-size: 12px;
+	white-space: nowrap;
+	text-align: left;
+}
+
+#btnControles a {
+	margin-bottom: 5px;
+	margin-top: 5px;
+	font-size: 24px;
+	margin-left: 83px;
+	margin-right: 5px;
+	position: relative;
+}
+
+#btnTabelaControle {
+	margin-bottom: 5px;
+	margin-top: -35p x;
+	font-size: 24px;
+	margin-left: 80%;
+	margin-right: 5px;
+	position: absolute;
+	margin-top: -23px;
+}
+
+#btnTabelaControle a {
+	margin-left: 28px;
+}
+
+.card {
+	position: relative;
+	background: white;
+	padding: 5px;
+	border-radius: 20px;
+	display: flex;
+	justify-content: space-between;
+	box-shadow: 0 7px 25px rgba(0, 0, 0, 0.08);
+}

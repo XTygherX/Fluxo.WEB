@@ -1,0 +1,163 @@
+#chart_div {
+	height: auto;
+	width: 74%;
+	position: absolute;
+	margin-left: 320px;
+	margin-top: -200px;
+}
+
+#chart_div div:first-child {
+	margin-left: -2.5px;
+}
+
+.cardBoxLateral {
+	margin-left: 60px;
+	position: relative;
+	margin-top: -130px;
+	font-weight: 600;
+	width: 270px;;
+	padding: 20px;
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-gap: 8px;
+}
+
+.cardBox {
+	font-weight: 600;
+	position: relative;
+	width: 100%;
+	padding: 20px;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-gap: 8px;
+	width: auto;
+	margin-left: 300px;
+	margin-top: -25px;
+}
+
+.cardBox .cards, .cardBoxLateral .cards, .cards {
+	position: relative;
+	background: white;
+	padding: 15px;
+	border-radius: 20px;
+	display: flex;
+	justify-content: space-between;
+	box-shadow: 0 7px 25px rgba(0, 0, 0, 0.08);
+}
+
+.cardBox .cards .data, .cardBoxLateral .cards .data {
+	position: relative;
+	font-weight: 500;
+	font-size: 24px;
+	color: blue;
+}
+
+.cardBox .cards .cardName, .cardBoxLateral .cards .cardName {
+	color: rgba(199, 199, 199, 0.83);
+	font-size: 14px;
+	margin-top: 10px;
+	white-space: nowrap;
+}
+
+.cardBox .cards .iconBx, .cardBoxLateral .cards .iconBx {
+	font-size: 40px;
+	color: black2;
+	margin-left: 5px;
+}
+
+.cardBox .cards:hover, .cardBoxLateral .cards:hover {
+	background: rgb(128, 128, 128);
+	color: white;
+}
+
+.cardBox .cards:hover .data, .cardBox .cards:hover .cardName, .cardBox .cards:hover .iconBx, .cardBoxLateral .cards:hover .data, .cardBoxLateral .cards:hover .cardName, .cardBoxLateral .cards:hover .iconBx {
+	color: white;
+}
+
+.cardBoxLojas {
+	position: relative;
+	height: 400px;
+	padding: 20px;
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-gap: 8px;
+	width: auto;
+	margin-left: 300px;
+	margin-top: -220px;
+}
+
+.cardBoxLojas .cards {
+	position: relative;
+	background: white;
+	padding: 15px;
+	border-radius: 15px;
+	display: flex;
+	justify-content: space-between;
+	box-shadow: 0 7px 25px rgba(0, 0, 0, 0.08);
+}
+
+.cardBoxLojas .cards .card_nome_loja {
+	color: black;
+	white-space: nowrap;
+	position: relative;
+	margin: 0px auto;
+	text-align: center;
+	font-weight: 500;
+	font-size: 18px;
+	color: black;
+}
+
+.cardBoxLojas .cards .card_p {
+	width: auto;
+	height: 80px;
+	position: absolute;
+	margin: 30px 150px;
+	text-align: end; display : grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-gap: 8px;
+	display: grid;
+}
+
+.cardBoxLojas .cards .card_p2 {
+	width: 100%;
+	height: 80px;
+	min-height: 300px;
+	min-width: 100%;
+	position: relative;
+}
+
+.cardBoxLojas .cards .card_p .card_porcentagwem {
+	width: 100%;
+	height: 80px;
+	min-height: 300px;
+	min-width: 100%;
+	position: relative;
+}
+
+.cardBoxLojas .cards .card_datas {
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-gap: 10px;
+	width: auto;
+	position: relative;
+	bottom: 0px;
+	font-weight: 500;
+	font-size: 14px;
+	color: blue;
+}
+
+.cardBoxLojas .cards .card_datas .card_data_recebimento {
+	position: relative;
+	white-space: nowrap;
+	border: 40px;
+	border-color: black;
+	background: yellow;
+}
+
+.cardBoxLojas .cards .card_datas .card_data_inauguracao {
+	position: relative;
+	white-space: nowrap;
+	border: 40px;
+	border-color: black;
+	background: green;
+}

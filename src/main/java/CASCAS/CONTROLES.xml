@@ -1,0 +1,551 @@
+<?xml version="1.0"?>
+<desc>
+	<solicitacao_option>Projeto de dados</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitação Site Survey</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Validação do projeto de dados</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Elaboração do enxoval de rede </solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Elaboração enxoval equipamentos da loja </solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Envio do projeto de dados para obras</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Envio do enxoval de equipamentos para CCA</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitação Link de dados Principal</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitação de link de dados Backup</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solitação Link wifi cliente</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitar link de voz E1 / Linhas telefonias</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitar equipamentos wifi cliente</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitação PABX</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitação Interface Celulares</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitação da Impressora zebra </solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitação das impressoras Lexmark</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitar Transformadores Lexmark</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitação do Relógio de ponto</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitar endereços de IP loja</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitar configuração de Switch</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitar configuração de AP</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitar configuração de SRV RUB</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitação de criação da documentaçao de rede da
+		loja</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitar criação do e-mail da loja (departamento)</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitar criação do grupo de e-mail da loja</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitar criação de usuarios Balcão de atendimento
+		(TS) - Consinco</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitar criação de usuario Preço (Corp - Assai)</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitar criação de usuario Preço (TS) - Consinco</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitar criação de usuario da loja no Triangulus</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitação de Fila da impressão no Triangulus</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitação de Fila da impressão no Consinco</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitação de diretorio integração consinco / rub</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<solicitacao_option>Solicitação de criação da documentaçao de rede da
+		loja</solicitacao_option>
+	<solicitacao_option>-90</solicitacao_option>
+	<controle_solicitacao_option>Contratação link principal</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Ordem de serviço / Pedido</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Infraestrutura DG loja</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Vistoria link principal</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Instalação e ativação roteador / link</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Link ativado e validado por telecom</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Contratação link Backup</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Ordem de serviço / Pedido</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Infraestrutura metalica telhado</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Vistoria link Backup</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Instalação e ativação roteador / link</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Link ativado e validado por telecom</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Contratação link Wifi cliente</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Ordem de serviço / Pedido</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Infraestrutura metalica telhado</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Vistoria link Backup</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Instalação e ativação roteador / link</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Link ativado e validado por telecom</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Contratação link de voz ( link E1 ) </controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Ordem de serviço / Pedido</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Infraestrutura DG loja</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Vistoria link E1 / Telefonia</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Instalação e ativação modem</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Numeros linhas telefonicas</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>PABX</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Instalação PABX</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Interface celular</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Instalação interface celular </controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Link de voz ativado e validade pela Astel</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Relogio de ponto</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Ativação do relogio de ponto</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Impressoras zebra </controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>impressoras lexmark</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Transformadores impressoras lexmark</controle_solicitacao_option>
+	<controle_solicitacao_option>-45</controle_solicitacao_option>
+	<controle_solicitacao_option>Envio de equipamentos para loja</controle_solicitacao_option>
+	<controle_solicitacao_option>-47</controle_solicitacao_option>
+	<configuracoes_option>Configuração Micro ADM</configuracoes_option>
+	<configuracoes_option>-20</configuracoes_option>
+	<configuracoes_option>Configuração PDV Frente de caixa</configuracoes_option>
+	<configuracoes_option>-20</configuracoes_option>
+	<configuracoes_option>Configuração PDV Cafeteria</configuracoes_option>
+	<configuracoes_option>-20</configuracoes_option>
+	<configuracoes_option>Configuração dos Terminais de Consulta</configuracoes_option>
+	<configuracoes_option>-20</configuracoes_option>
+	<configuracoes_option>Configuração das balanças Toledo</configuracoes_option>
+	<configuracoes_option>-20</configuracoes_option>
+	<configuracoes_option>Configuração das impressoras Lexmark</configuracoes_option>
+	<configuracoes_option>-20</configuracoes_option>
+	<configuracoes_option>Configuração do Painel de monitoramento Camara
+		Fria </configuracoes_option>
+	<configuracoes_option>-20</configuracoes_option>
+	<configuracoes_option>Configuração do Painel de monitoramento
+		Refrigeração</configuracoes_option>
+	<configuracoes_option>-20</configuracoes_option>
+	<configuracoes_option>Configuração DVR CFTV</configuracoes_option>
+	<configuracoes_option>-20</configuracoes_option>
+	<eletrica_option>GERADOR START RM </eletrica_option>
+	<eletrica_option>-50</eletrica_option>
+	<eletrica_option>RACK C (CARTAZISTA)</eletrica_option>
+	<eletrica_option>-48</eletrica_option>
+	<eletrica_option>SALA RECEBIMENTO</eletrica_option>
+	<eletrica_option>-48</eletrica_option>
+	<eletrica_option>SALA DA MANUTENÇÃO</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>BALANÇA PISO DOCA PERECIVEL</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>SALA DE PREPARO</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>SALA DE FATIADOS</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>RACK A (CPD)</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>CENTRAL PABX (CPD)</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>NOBREAKS (CPD)</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>SALA DE TI</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>SALA DE CFTV</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>RACK DVRS (SALA CFTV)</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>SALA DE TREINAMENTO</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>PROJETOR (SALA DE TREINAMENTO)</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>SALA ALMOXARIFADO</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>SALA DO RH</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>TV CORPORATIVA REFEITORIO</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>SALA NUTRICIONISTA</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>ENTRADA DE FUNCIONARIOS</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>RELOGIO DE PONTO ADM</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>SALA DO FINANCEIRO</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>RELOGIO DE PONTO FRENTE DE CAIXA</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>BALCÃO FISCAL</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>BALCÃO DE ATENDIMENTO</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>RACK B AÉREO (LOJA)</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>GERENCIA</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>ADM LOJA (GERENCIA)</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>PREVENÇÃO (GERENCIA)</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>TELEVENDAS (GERENCIA)</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>OPERACIONAL LOJA (GERENCIA)</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>PREÇO (GERENCIA)</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>CAFETERIA</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>TVS CAFETERIA</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>SERVIDOR CAFETERIA</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>TERMINAIS DE CONSULTA</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>BALANÇAS PRIX TOLEDO</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>CHEKOUTS (PDVS)</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>MONITORAMENTO REFRIGERAÇÃO</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<eletrica_option>MONITORAMENTO AR CONDICIONADO</eletrica_option>
+	<eletrica_option>-20</eletrica_option>
+	<cabeamento_dados_option>SALA CARTAZISTA</cabeamento_dados_option>
+	<cabeamento_dados_option>-48</cabeamento_dados_option>
+	<cabeamento_dados_option>SALA RECEBIMENTO</cabeamento_dados_option>
+	<cabeamento_dados_option>-48</cabeamento_dados_option>
+	<cabeamento_dados_option>SALA DA MANUTENÇÃO</cabeamento_dados_option>
+	<cabeamento_dados_option>-48</cabeamento_dados_option>
+	<cabeamento_dados_option>ANTENA DOCA SECA</cabeamento_dados_option>
+	<cabeamento_dados_option>-48</cabeamento_dados_option>
+	<cabeamento_dados_option>ANTENA DEPOSITO</cabeamento_dados_option>
+	<cabeamento_dados_option>-48</cabeamento_dados_option>
+	<cabeamento_dados_option>ANTENA RECEBIMENTO PERECIVEIS</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>ANTENA SALA PREPARO</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>ANTENA SALA FATIADOS</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>CENTRAL PABX (CPD)</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>NOBREAKS (CPD)</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>SALA DE TI</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>SALA DE CFTV</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>RACK DVRS (SALA CFTV)</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>SALA DE TREINAMENTO</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>SALA ALMOXARIFADO</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>SALA DO RH</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>TV CORPORATIVA REFEITORIO</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>SALA NUTRICIONISTA</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>ENTRADA DE FUNCIONARIOS</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>ANTENA ENTRADA DE FUNCIONARIOS</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>RELOGIO DE PONTO ADM</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>SALA DO FINANCEIRO</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>RELOGIO DE PONTO FRENTE DE CAIXA</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>BALCÃO FISCAL</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>BALCÃO DE ATENDIMENTO</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>GERENCIA</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>ADM LOJA (GERENCIA)</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>PREVENÇÃO (GERENCIA)</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>TELEVENDAS (GERENCIA)</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>OPERACIONAL LOJA (GERENCIA)</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>PREÇO (GERENCIA)</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>CAFETERIA</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>AÇOUGUE</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>TERMINAIS DE CONSULTA</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>CHEKOUTS (PDVS)</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>WIFI CLIENTE</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>PASSAÍ</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>MONITORAMENTO REFRIGERAÇÃO</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>MONITORAMENTO AR CONDICIONADO</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>PASSAGEM CABO DE TELEFONE ENTRE O RACK A PARA
+		O RACK B</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>PASSAGEM CABO DE TELEFONE ENTRE RACK A PARA O
+		RACK C</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>PASSAGEM CABO DE FIBRA ÓPTICA ENTRE RACK A
+		PARA O RACK B</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>PASSAGEM CABO DE FIBRA ÓPTICA ENTRE RACK A
+		PARA O RACK C</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>PASSAGEM CABO DE FIBRA ÓPTICA ENTRE RACK B
+		PARA O RACK C</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>PASSAGEM CABO CAT 6 DO RACK A PARA O RACK C</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>PASSAGEM CABO CAT 6 DO RACK A PARA RACK B</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cabeamento_dados_option>PASSAGEM CABO CAT 5 DO RACK PASSAÍ</cabeamento_dados_option>
+	<cabeamento_dados_option>-20</cabeamento_dados_option>
+	<cripagem_option>SALA CARTAZISTA</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>SALA RECEBIMENTO</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>SALA DA MANUTENÇÃO</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>ANTENA SALA PREPARO</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>ANTENA SALA FATIADOS</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>ANTENA RECEBIMENTO PERECIVEIS</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>ANTENA DOCA SECA</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>ANTENA DEPOSITO</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>CENTRAL PABX (CPD)</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>NOBREAKS (CPD)</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>SALA DE TI</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>SALA DE CFTV</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>RACK DVRS (SALA CFTV)</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>SALA DE TREINAMENTO</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>SALA ALMOXARIFADO</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>SALA DO RH</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>TV CORPORATIVA REFEITORIO</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>SALA NUTRICIONISTA</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>ENTRADA DE FUNCIONARIOS</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>ANTENA ENTRADA DE FUNCIONARIOS</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>RELOGIO DE PONTO ADM</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>SALA DO FINANCEIRO</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>RELOGIO DE PONTO FRENTE DE CAIXA</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>BALCÃO FISCAL</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>BALCÃO DE ATENDIMENTO</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>GERENCIA</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>ADM LOJA (GERENCIA)</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>PREVENÇÃO (GERENCIA)</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>TELEVENDAS (GERENCIA)</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>OPERACIONAL LOJA (GERENCIA)</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>PREÇO (GERENCIA)</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>CAFETERIA</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>TVS CAFETERIA</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>SERVIDOR CAFETERIA</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>TERMINAIS DE CONSULTA</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>CHEKOUTS (PDVS)</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>WIFI CLIENTE</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>MONITORAMENTO REFRIGERAÇÃO</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>MONITORAMENTO AR CONDICIONADO</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>CABO DE TELEFONE ENTRE O RACK A PARA O RACK B</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>CABO DE TELEFONE ENTRE RACK A PARA O RACK C</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>CABO DE FIBRA ÓPTICA ENTRE RACK A PARA O RACK B</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>CABO DE FIBRA ÓPTICA ENTRE RACK A PARA O RACK C</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>CABO DE FIBRA ÓPTICA ENTRE RACK B PARA O RACK C</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>CABO CAT 6 DO RACK A PARA O RACK C</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>CABO CAT 6 DO RACK A PARA RACK B</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<cripagem_option>CABO CAT 5 DO RACK PASSAÍ</cripagem_option>
+	<cripagem_option>-15</cripagem_option>
+	<instalacoes_option>SALA CARTAZISTA</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>SALA RECEBIMENTO</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>SALA DA MANUTENÇÃO</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>ANTENA SALA PREPARO</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>ANTENA SALA FATIADOS</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>ANTENA RECEBIMENTO PERECIVEIS</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>ANTENA DOCA SECA</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>ANTENA DEPOSITO</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>CENTRAL PABX (CPD)</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>NOBREAKS (CPD)</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>SALA DE TI</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>SALA DE CFTV</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>RACK DVRS (SALA CFTV)</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>SALA DE TREINAMENTO</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>SALA ALMOXARIFADO</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>SALA DO RH</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>TV CORPORATIVA REFEITORIO</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>SALA NUTRICIONISTA</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>ENTRADA DE FUNCIONARIOS</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>ANTENA ENTRADA DE FUNCIONARIOS</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>RELOGIO DE PONTO ADM</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>SALA DO FINANCEIRO</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>RELOGIO DE PONTO FRENTE DE CAIXA</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>BALCÃO FISCAL</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>BALCÃO DE ATENDIMENTO</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>GERENCIA</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>ADM LOJA (GERENCIA)</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>PREVENÇÃO (GERENCIA)</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>TELEVENDAS (GERENCIA)</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>OPERACIONAL LOJA (GERENCIA)</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>PREÇO (GERENCIA)</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>CAFETERIA</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>TVS CAFETERIA</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>SERVIDOR CAFETERIA</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>TERMINAIS DE CONSULTA</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>CHEKOUTS (PDVS)</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>WIFI CLIENTE</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>PASSAÍ</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>MONITORAMENTO REFRIGERAÇÃO</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<instalacoes_option>MONITORAMENTO AR CONDICIONADO</instalacoes_option>
+	<instalacoes_option>-13</instalacoes_option>
+	<validacoes_option>NOBREAKS</validacoes_option>
+	<validacoes_option>-5</validacoes_option>
+	<validacoes_option>LINK DE DADOS PRINCIPAL</validacoes_option>
+	<validacoes_option>-5</validacoes_option>
+	<validacoes_option>LINK DADOS BACKUP</validacoes_option>
+	<validacoes_option>-5</validacoes_option>
+	<validacoes_option>LINK TELEFONIA</validacoes_option>
+	<validacoes_option>-5</validacoes_option>
+	<validacoes_option>LINK DE INTERNET WIFI CLIENTE</validacoes_option>
+	<validacoes_option>-5</validacoes_option>
+	<validacoes_option>FIREWALLS</validacoes_option>
+	<validacoes_option>-5</validacoes_option>
+	<validacoes_option>SERDIDORES</validacoes_option>
+	<validacoes_option>-5</validacoes_option>
+	<validacoes_option>SERVIDOR RUB</validacoes_option>
+	<validacoes_option>-5</validacoes_option>
+	<validacoes_option>SERVIDOR CAFETERIA</validacoes_option>
+	<validacoes_option>-5</validacoes_option>
+	<validacoes_option>CENTRAL PABX</validacoes_option>
+	<validacoes_option>-5</validacoes_option>
+	<validacoes_option>TVS CORPORATIVAS</validacoes_option>
+	<validacoes_option>-5</validacoes_option>
+	<validacoes_option>CFTV</validacoes_option>
+	<validacoes_option>-5</validacoes_option>
+	<validacoes_option>IMPRESSORAS</validacoes_option>
+	<validacoes_option>-5</validacoes_option>
+	<validacoes_option>RELOGIOS DE PONTO</validacoes_option>
+	<validacoes_option>-5</validacoes_option>
+	<validacoes_option>BALANÇAS TOLEDO</validacoes_option>
+	<validacoes_option>-5</validacoes_option>
+	<validacoes_option>TERMINAIS DE CONSULTA</validacoes_option>
+	<validacoes_option>-5</validacoes_option>
+	<validacoes_option>ANTENAS WIFI CLIENTES</validacoes_option>
+	<validacoes_option>-5</validacoes_option>
+	<validacoes_option>INAUGURAÇÃO</validacoes_option>
+	<validacoes_option>-1</validacoes_option>
+</desc>  

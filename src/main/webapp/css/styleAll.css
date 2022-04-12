@@ -1,0 +1,10 @@
+body {
+	height: 100vh;
+	background: #abbaab; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to top, #ffffff, #abbaab); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to top, #ffffff, #abbaab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background-repeat: no-repeat;
+	margin-left: 10px;
+	overflow: auto;
+	margin-top: 20px;
+}

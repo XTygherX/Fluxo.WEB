@@ -1,0 +1,273 @@
+.controle {
+	margin-top: 5px;
+	position: absolute;
+	margin-left: 61%;
+	width: 37%;
+}
+
+.controle h6 {
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+.controle #numLoja {
+	width: 200px;
+	margin-left: 15px;
+}
+
+.controle .form-row {
+	margin-left: 10px;
+	padding-top: 15px;
+}
+
+.controle .checkbox {
+	margin-left: 10px;
+}
+
+.controle tr {
+	min-width: 570px;
+}
+
+.controle .botoesTabela button {
+	margin-right: 5px;
+}
+
+.titulos {
+	margin-top: 5px;
+	position: fixed;
+	margin-left: 40%;
+	width: 20%;
+	height: 99%;
+}
+
+.titulos .titulosPDF {
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+}
+
+.titulos .titulosPDF .botoes {
+	padding-top: 5px;
+	margin-left: 10px;
+}
+
+.titulos .titulosPDF .botoes button {
+	margin-left: 5px;
+}
+
+.titulos .titulosPDF #tabelaTitulos {
+	margin-top: 5px;
+	width: 100%;
+}
+
+
+.titulos .titulosPDF #tabelaTitulos tr th, .titulos .titulosPDF #tabelaTitulos tr td {
+	width: 300px;;
+}
+
+.titulos .titulosPDF #tabelaTitulos tr td.selecionado {
+	background-color: #aff7ff;
+}
+
+.cardPDF {
+	font-style: Calibri;
+	font-size: 11, 5;
+	line-height: 90%;
+	margin-left: 75px;
+	margin-top: 5px;
+	position: fixed;
+	width: 35%;
+	height: 99%;
+	overflow: auto;
+}
+
+.cardPDF .iFrame {
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	position: relative;
+	width: 100%;
+	height: 100%;
+	top: -100%;
+}
+
+.cardPDF .iFrame .cardA {
+	width: 100%;
+	height: 100%;
+}
+
+.cardPDF .iFrame .imgLogo {
+	position: absolute;
+	margin-top: 5px;
+	right: 10px;
+}
+
+.cardPDF .iFrame .imgLogo img {
+	max-width: 100px;
+	max-height: 75px;
+	width: auto;
+	height: auto;
+}
+
+.cardPDF .iFrame .cardA .retanguloCantoInferior {
+	width: 70px;
+	height: 100%;
+	position: absolute;
+	background: #abbaab; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to top, #ffffff, #abbaab); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to top, #ffffff, #abbaab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background-repeat: no-repeat;
+}
+
+.cardPDF .iFrame .cardA .retanguloCantoInferior p {
+	transform: rotate(-90deg);
+	margin-top: 250px;
+	margin-left: -220px;
+	width: 550px;
+	height: 10%;
+	font-size: 42px;
+	color: white;
+	font-family: sans-serif;
+}
+
+.cardPDF .iFrame .cardA .cabecalho {
+	margin-top: 35px;
+}
+
+.cardPDF .iFrame .cardA .cabecalho .dadoTitulos {
+	margin-left: 75px;
+}
+
+.cardPDF .iFrame .cardA .cabecalho .dadosSub {
+	margin-left: 85px;
+	margin-top: -10px;
+}
+
+.cardPDF .iFrame .cardA .corpo {
+	position: absolute;
+	margin-left: 75px;
+	margin-top: 120px;
+}
+
+.cardPDF .iFrame .print {
+	position: absolute;
+	margin-top: 5px;
+	right: 10px;
+}
+
+.cardPDF .iFrame .print i {
+	max-width: 30px;
+	max-height: 30px;
+	width: auto;
+	height: auto;
+}
+
+@media print {
+	body {
+		visibility: hidden;
+	}
+	.cardPDF, .cardPDF * {
+		visibility: visible;
+	}
+	.cardPDF {
+		font-style: Calibri;
+		line-height: 90%;
+		position: fixed;
+		width: 98%;
+		height: 98%;
+	}
+	.cardPDF .iFrame {
+		padding-bottom: 5px;
+		padding-left: 5px;
+		padding-right: 5px;
+		padding-top: 5px;
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		top: 0%;
+	}
+	.cardPDF .iFrame .cardA {
+		width: 100%;
+		height: 100%;
+	}
+	.cardPDF .iFrame .imgLogo {
+		position: absolute;
+		margin-top: 5px;
+		right: 20%;
+	}
+	.cardPDF .iFrame .imgLogo img {
+		max-width: 700px;
+		max-height: 500px;
+		width: auto;
+		height: auto;
+	}
+	.cardPDF .iFrame .cardA .retanguloCantoInferior {
+		width: 180px;
+		height: 100%;
+		position: absolute;
+		background: #abbaab; 
+		background: -webkit-linear-gradient(to top, #ffffff, #abbaab); 
+		background: linear-gradient(to top, #ffffff, #abbaab); 
+		background-repeat: repeat-x;
+	}
+	.cardPDF .iFrame .cardA .retanguloCantoInferior p {
+		transform: rotate(-90deg);
+		margin-top: 800px;
+		margin-left: -100px;
+		width: 550px;
+		height: 10%;
+		font-size: 80px;
+		color: white;
+		font-family: sans-serif;
+	}
+	.cardPDF .iFrame .cardA .cabecalho {
+		margin-top: 50px;
+		font-size: 32px;
+		margin-left: 100px;
+	}
+	.cardPDF .iFrame .cardA .cabecalho .dadoTitulos {
+		margin-left: 5px;
+	}
+	.cardPDF .iFrame .cardA .cabecalho .dadosSub {
+		margin-left: 15px;
+		margin-top: -10px;
+	}
+	.cardPDF .iFrame .cardA .corpo {
+		position: absolute;
+		margin-top: 160px;
+		font-size: 24px;
+		margin-left: 100px;
+	}
+	.cardPDF .iFrame .cardA .corpo .dadoTitulos {
+		margin-left: 5px;
+	}
+	.cardPDF .iFrame .cardA .corpo .dadosSub {
+		margin-left: 15px;
+	}
+	.cardPDF .iFrame .print * {
+		visibility: hidden;
+	}
+	
+	.cardPDF .iFrame .cardA .retanguloCantoInferior {
+	width: 70px;
+	height: 100%;
+	position: absolute;
+	background: #abbaab; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to top, #ffffff, #abbaab); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to top, #ffffff, #abbaab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background-repeat: no-repeat;
+	}
+	
+	.cardPDF .iFrame .cardA .retanguloCantoInferior p {
+		transform: rotate(-90deg);
+		margin-top: 550px;
+		margin-left: -210px;
+		width: 650px;
+		height: 10%;
+		font-size: 42px;
+		color: white;
+		font-family: sans-serif;
+	}
+}

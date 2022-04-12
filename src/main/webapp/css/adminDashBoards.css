@@ -1,0 +1,104 @@
+body {
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+#inputControles, label {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+#Controles {
+	position: fixed;
+	height: 95%;
+	width: 200px;
+	margin-left: 75px;
+}
+
+#Controles button {
+	margin-left: 75px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+#tabelaControles {
+	margin-top: 5px;
+	width: 95%;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+#tabelaControles tr th, #tabelaControles tr td {
+	width: 200px;
+	max-width: 190px;
+	position: relative;
+}
+
+#tabelaControles tr td.selecionado {
+	background-color: #aff7ff;
+}
+
+#btnControles {
+	width: 125px;
+	position: relative;
+	height: 45px;
+	left: 30px;
+}
+
+#btnControles a {
+	margin-bottom: 5px;
+	margin-top: 5px;
+	font-size: 24px;
+	margin-left: 5px;
+	margin-right: 5px;
+	position: relative;
+}
+
+#btnControles #rename {
+	top: -45px;
+	left: 40px;
+}
+
+#btnControles #del {
+	top: -92px;
+	left: 80px;
+}
+
+#tabelaControles tr td.selecionado {
+	background-color: #aff7ff;
+}
+
+#tabela {
+	left: 300px;
+	width: 980px;
+	height: 95%;
+	position: fixed;
+}
+
+#tabela .row {
+	margin-bottom: 5px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+#tabela .card {
+	margin-top: 2px;
+}
+
+#listaNaoVinculados, #listaVinculados {
+	position: relative;
+	margin-bottom: -10px;
+}
+
+#listaNaoVinculados {
+	width: 420px;
+}
+
+#listaVinculados {
+	right: -85px;
+	width: 460px;
+}
